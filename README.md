@@ -1,9 +1,6 @@
-### Hi there 👋
-
 <div id="header" align="center">
-  <p>I'm frontend-developer</p>
+  <p>Hi there! 👋 I'm frontend-developer</p>
 </div>
-
 
 <div id="badges__social" align="center">
   <a href="https://t.me/nikita_0071">
@@ -12,7 +9,6 @@
   
   <img src="https://komarev.com/ghpvc/?username=Racio-begin&style=flat-square&color=blue" alt=""/>
 </div>
-
 
  --- 
 
