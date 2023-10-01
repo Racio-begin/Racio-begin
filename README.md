@@ -1,8 +1,14 @@
 ### Hi there 👋
 
-<div id="badges">
+<div id="badges__social">
   <a href="your-telegram-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
+
+<div id="badges__techs">
+  <a href="your-telegram-URL">
+    <img src="https://img.shields.io/badge/javascript-yellow?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript Badge"/>
   </a>
 </div>
 
