@@ -27,6 +27,6 @@
 		alt="NodeJS" width="50" height="50" />&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git"
 		width="50" height="50" />
-	<img src="https://icons8.ru/icon/EPbEfEa7o8CB/postman-is-the-only-complete-api-development-environment" title="Postman" **alt="Postman"
+	<img src="https://www.svgrepo.com/svg/354202/postman-icon" title="Postman" **alt="Postman"
 		width="50" height="50" />
 </div>
