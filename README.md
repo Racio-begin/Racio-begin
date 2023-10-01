@@ -15,5 +15,5 @@
  ### I know the following technologies
 <div id="badges__techs" align="center">
   <img src="https://img.shields.io/badge/javascript-yellow?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript Badge"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" size="30"/>
 </div>
