@@ -1,5 +1,5 @@
+## Hi there! 👋 I'm frontend-developer
 <div id="header" align="center">
-	<p>Hi there! 👋 I'm frontend-developer</p>
 
 <div id="badges__social">
 		<a href="https://t.me/nikita_0071">
