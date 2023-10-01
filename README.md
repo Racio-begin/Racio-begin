@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### I'm frontend-developer
-<div id="badges__social">
+<div id="badges__social" align="center">
   <a href="https://t.me/nikita_0071">
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
@@ -11,7 +11,7 @@
 
  --- 
  
-<div id="badges__techs">
+<div id="badges__techs" align="center">
   <a href="your-telegram-URL">
     <img src="https://img.shields.io/badge/javascript-yellow?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript Badge"/>
   </a>
