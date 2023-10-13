@@ -1,4 +1,5 @@
-## Hi there! 👋 I'm frontend-developer
+## Всем привет! 👋
+### Меня зовут Никита. Я фронтенд разработчик.
 <div id="header" align="center">
 	<div id="badges__social">
 		<a href="https://t.me/nikita_0071">
