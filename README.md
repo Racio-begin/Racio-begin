@@ -7,7 +7,7 @@
 				alt="Telegram Badge" />
 		</a>
 		<a href="mailto:nikita.averyanov71@gmail.com">
-			<img src="https://img.shields.io/badge/e-mail-blue?logo=e-mail&logoColor=white&style=for-the-badge"
+			<img src="https://img.shields.io/badge/email-red?logo=email&logoColor=white&style=for-the-badge"
 				alt="E-mail Badge" />
 		</a>
 	</div>
