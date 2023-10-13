@@ -1,5 +1,8 @@
 ## Всем привет! 👋
 ### Меня зовут Никита. Я фронтенд разработчик.
+  
+---  
+  
 <div id="header" align="center">
 	<div id="badges__social">
 		<a href="https://t.me/nikita_0071">
@@ -15,7 +18,7 @@
 
 ---
 
-### I know the following technologies
+### Мой стек технологий
 <div id="my-techs" align="center">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React"
 		alt="React" width="50" height="50" />&nbsp;
