@@ -6,7 +6,7 @@
 			<img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"
 				alt="Telegram Badge" />
 		</a>
-		<a href="nikita.averyanov71@gmail.com">
+		<a href="mailto:nikita.averyanov71@gmail.com">
 			<img src="https://img.shields.io/badge/e-mail-blue?logo=e-mail&logoColor=white&style=for-the-badge"
 				alt="E-mail Badge" />
 		</a>
