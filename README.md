@@ -6,7 +6,10 @@
 			<img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"
 				alt="Telegram Badge" />
 		</a>
-		<a href="mailto:vlad@webref.ru">vlad@webref.ru</a>
+		<a href="mailto:vlad@webref.ru">
+			<img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"
+				alt="Telegram Badge" />
+		</a>
 	</div>
 
 <img src="https://komarev.com/ghpvc/?username=Racio-begin&style=flat-square&color=blue" alt="" />
